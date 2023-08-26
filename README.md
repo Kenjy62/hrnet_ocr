@@ -26,3 +26,23 @@ Convert one of four a jQuery plugin to React Component
 
 > ReactJS for frontend <br/>
 > Tailwindcss
+
+# How to test
+
+In terminal :
+
+```bash
+git clone https://github.com/Kenjy62/hrnet_ocr.git
+```
+
+```bash
+cd .\hrnet\
+```
+
+```bash
+npm install
+```
+
+```bash
+npm start
+```
