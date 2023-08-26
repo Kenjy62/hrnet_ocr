@@ -83,6 +83,30 @@
       "state": "US",
       "zipcode": "47854",
       "id": 8
+    },
+    {
+      "firstname": "Jessica",
+      "lastname": "Sander",
+      "startdate": "2020-11-11",
+      "birthdate": "2000-05-24",
+      "street": "87 Rue de Nevers",
+      "city": "Boulogne",
+      "state": "FM",
+      "zipcode": "45745",
+      "department": "Engineering",
+      "id": 9
+    },
+    {
+      "firstname": "Sofia",
+      "lastname": "Da Silva",
+      "startdate": "2023-05-25",
+      "department": "Legal",
+      "birthdate": "1996-01-15",
+      "street": "45 Rue de la Liberté",
+      "city": "Diep",
+      "zipcode": "48754",
+      "state": "FR",
+      "id": 10
     }
   ]
 }
